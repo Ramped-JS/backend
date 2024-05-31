@@ -25,10 +25,9 @@ MONGO_DB_URI= <Your_Mongo_Atlas_URI>
 MONGO_DB_DATABASE = <Your_MONGO_DB_DATABASE_NAME>
 ```
 
-Navigate to app directory and install project dependencies or required modules:
+Install project dependencies or required modules:
 
 ```sh
-cd app
 pip3 install -r requirements.txt
 ```
 
